@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+using Buclesproyects;
+
+Subbucle1 ejecutar = new Subbucle1();
+
+ejecutar.Calcularbucle1();
+
+
+//ejecutar.Calcularbucle2();
+
+//ejecutar.Calcularbucle3();  
+
+
